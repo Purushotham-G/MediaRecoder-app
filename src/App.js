@@ -8,9 +8,11 @@ import MediaRocorder from './pages/MediaRocorder'
 function App() {
   return (
     <div>
+
       {/* <AudioRecorder />
       <VideoRecorder /> */}
       <MediaRocorder />
+      
     </div>
   )
 }
