@@ -12,9 +12,9 @@
 #### Responsive Design using Material Ui Library
 
 ## Technologies Using
-React Js (Function Based Components and Hooks)
-Material Ui (version latest 7.1)
-Material Ui/icons
+### React Js (Function Based Components and Hooks)
+### Material Ui (version latest 7.1)
+### Material Ui/icons
 
 
 
